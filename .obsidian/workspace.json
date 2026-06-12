@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/github-projects/conic/inverse-filtering.md",
+                "file": "_base/01-marco-conceptual.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "inverse-filtering"
+              "title": "01-marco-conceptual"
             }
           }
         ]
@@ -184,14 +184,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bc143762c5ca30c4",
+  "active": "8d3fd3402da73d67",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-06-10 22.57.27.excalidraw.md",
+    "_base/02-revision.md",
+    "_base/01-marco-conceptual.md",
+    "_base",
+    "_base/03-implementacion.md",
     "programming/github-projects/conic/inverse-filtering.md",
+    "geotechnics/site-response",
+    "Excalidraw/Drawing 2026-06-10 22.57.27.excalidraw.md",
     "Excalidraw",
-    "03-implementacion.md",
-    "02-revision.md",
-    "01-marco-conceptual.md",
     "01-marco-conceptual",
     "programming/github-projects/conic",
     "programming/github-projects",
