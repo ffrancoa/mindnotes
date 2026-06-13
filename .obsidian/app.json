@@ -1,5 +1,6 @@
 {
   "livePreview": false,
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": null
 }

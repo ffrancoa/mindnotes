@@ -1,5 +1,5 @@
 
-## `traduce` command
+## `translate` command
 
 - Only scan modified `.md` files (via git), excluding excalidraw files.
 - Write translation directly into the file, not in chat.
