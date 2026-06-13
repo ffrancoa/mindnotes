@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f86b2c0109652eaf",
+        "id": "7855e3de27200e30",
         "type": "tabs",
         "children": [
           {
-            "id": "bc143762c5ca30c4",
+            "id": "dc93de23dd6b612c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_base/01-marco-conceptual.md",
-                "mode": "source",
+                "file": "CLAUDE.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01-marco-conceptual"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 405.5
   },
   "right": {
     "id": "1831266ccd5f197a",
@@ -184,10 +184,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d3fd3402da73d67",
+  "active": "dc93de23dd6b612c",
   "lastOpenFiles": [
-    "_base/02-revision.md",
+    "CLAUDE.md.tmp.18708.32535a7af88f",
+    "geotechnics/site-response/01-wave-equation.md",
+    "geotechnics/site-response/excalidraw/01-wave-equation-01.excalidraw.md",
+    "geotechnics/site-response/01-fundamentals.md",
+    "programming/projects/conic/inverse-filtering.md",
+    "programming/projects/conic",
+    "programming/projects",
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.18048.5eb74235c15e",
+    "_base/01-fundamentals.md",
+    "01-fundamentals.md",
+    "geotechnics/site-response/01-fundamentals.md.tmp.18048.05526e7a84b3",
+    "geotechnics/site-response/excalidraw/02-wave-equation-02.excalidraw.md",
+    "geotechnics/site-response/excalidraw/01-fundamentals-01.excalidraw.md",
+    "geotechnics/site-response/excalidraw/site-response",
+    "geotechnics/site-response/excalidraw",
     "_base/01-marco-conceptual.md",
+    "_base/02-revision.md",
     "_base",
     "_base/03-implementacion.md",
     "programming/github-projects/conic/inverse-filtering.md",
@@ -195,10 +211,6 @@
     "Excalidraw/Drawing 2026-06-10 22.57.27.excalidraw.md",
     "Excalidraw",
     "01-marco-conceptual",
-    "programming/github-projects/conic",
-    "programming/github-projects",
-    "geotech/About me.md",
-    "programming",
-    "geotechnics"
+    "geotech/About me.md"
   ]
 }

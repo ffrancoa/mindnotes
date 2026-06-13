@@ -3,5 +3,11 @@
   "cssTheme": "Minimal",
   "textFontFamily": "Lexend",
   "monospaceFontFamily": "JetBrains Mono",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "center_images",
+    "center_excalidraw",
+    "increase_text",
+    "increase_latex"
+  ]
 }
